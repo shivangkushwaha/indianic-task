@@ -17,7 +17,7 @@ node index
 ### Project Structure
 
 - `index.js`: Entry point of the application.
-- `src/services/potterApi.js`: Contains functions to interact with the Harry Potter API.
+- `potterApi.js`: Contains functions to interact with the Harry Potter API.
 - `README.md`: Project documentation.
 - `package.json`: Project metadata and dependencies.
 - `.gitignore`: Ignored files and directories (e.g., `node_modules`).
