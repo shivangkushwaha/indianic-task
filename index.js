@@ -1,5 +1,5 @@
 
-const { getLastChapterSummary } = require('./src/services/potterApi');
+const { getLastChapterSummary } = require('./potterApi');
 
 
 async function main() {
